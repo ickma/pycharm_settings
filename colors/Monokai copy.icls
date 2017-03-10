@@ -1,8 +1,8 @@
 <scheme name="Monokai copy" version="142" parent_scheme="Default">
   <option name="EDITOR_FONT_SIZE" value="18" />
-  <option name="CONSOLE_FONT_NAME" value="DejaVu Sans Mono" />
+  <option name="CONSOLE_FONT_NAME" value="Menlo" />
   <option name="CONSOLE_FONT_SIZE" value="16" />
-  <option name="EDITOR_FONT_NAME" value="HiraginoSans-W3" />
+  <option name="EDITOR_FONT_NAME" value="Hiragino Sans" />
   <colors>
     <option name="CARET_COLOR" value="f8f8f0" />
     <option name="CARET_ROW_COLOR" value="3e3d32" />
