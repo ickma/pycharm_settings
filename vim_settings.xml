@@ -3,12 +3,8 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="/Volumes/Ithink/testProjects/pythonTestProjects/csrftoeknTest/app/log_manage.py" timestamp="1496228382404">
-        <mark key="'" line="61" column="0" />
-        <mark key="[" line="61" column="28" />
-        <mark key="]" line="61" column="28" />
-        <mark key="." line="61" column="28" />
-        <mark key="^" line="20" column="0" />
+      <file name="/Dummy.txt" timestamp="1496233169165">
+        <mark key="[" line="0" column="0" />
       </file>
       <file name="/Volumes/Ithink/testProjects/pythonTestProjects/csrftoeknTest/app/test_loginMessage.py" timestamp="1496226689911">
         <mark key="'" line="6" column="32" />
@@ -23,15 +19,45 @@
         <mark key="." line="23" column="7" />
         <mark key="^" line="23" column="7" />
       </file>
+      <file name="/manage.py@csrftoeknTest" timestamp="1496232257110">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
+      </file>
+      <file name="/Volumes/Ithink/testProjects/pythonTestProjects/csrftoeknTest/app/admin.py" timestamp="1496233377454">
+        <mark key="[" line="2" column="28" />
+        <mark key="]" line="2" column="10" />
+        <mark key="^" line="2" column="10" />
+        <mark key="." line="2" column="10" />
+      </file>
+      <file name="/Volumes/Ithink/testProjects/pythonTestProjects/csrftoeknTest/app/log_manage.py" timestamp="1496228382404">
+        <mark key="'" line="61" column="0" />
+        <mark key="[" line="61" column="28" />
+        <mark key="]" line="61" column="28" />
+        <mark key="." line="61" column="28" />
+        <mark key="^" line="20" column="0" />
+      </file>
+      <file name="/a.sql" timestamp="1496233132135">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="/Django Console" timestamp="1496232485367">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/.datagrid/cell" timestamp="1496232886225">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="/Volumes/Ithink/testProjects/pythonTestProjects/csrftoeknTest/app/datas/dress_sale.py" timestamp="1496228614708">
         <mark key="[" line="1" column="12" />
+      </file>
+      <file name="/Volumes/Ithink/testProjects/pythonTestProjects/csrftoeknTest/csrftoeknTest/settings.py" timestamp="1496232251661">
+        <mark key="a" line="86" column="0" />
       </file>
       <file name="/Volumes/Ithink/testProjects/pythonTestProjects/csrftoeknTest/app/models.py" timestamp="1496230704208">
         <mark key="[" line="9" column="0" />
         <mark key="]" line="9" column="0" />
         <mark key="." line="9" column="0" />
       </file>
-      <file name="/dummy.sql" timestamp="1496228386938">
+      <file name="/dummy.sql" timestamp="1496233317705">
         <mark key="[" line="0" column="0" />
       </file>
     </filemarks>
@@ -53,8 +79,8 @@
       <register name="1" type="2">
         <text encoding="base64">ICAgIAo=</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+      <register name="&quot;" type="4">
+        <text>makemessages</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">ICAgIHBhc3MK</text>
@@ -84,7 +110,7 @@
         <text>7</text>
       </register>
       <register name="-" type="4">
-        <text>user</text>
+        <text>makemessages</text>
       </register>
     </registers>
     <search>
