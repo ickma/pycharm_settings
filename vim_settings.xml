@@ -3,12 +3,11 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="/Volumes/Ithink/testProjects/pythonTestProjects/csrftoeknTest/app/log_manage.py" timestamp="1496226529504">
-        <mark key="'" line="14" column="14" />
-        <mark key="[" line="14" column="14" />
-        <mark key="]" line="40" column="0" />
-        <mark key="." line="40" column="0" />
-        <mark key="^" line="40" column="0" />
+      <file name="/Volumes/Ithink/testProjects/pythonTestProjects/csrftoeknTest/app/log_manage.py" timestamp="1496227846665">
+        <mark key="[" line="6" column="0" />
+        <mark key="]" line="6" column="0" />
+        <mark key="." line="6" column="0" />
+        <mark key="^" line="20" column="0" />
       </file>
       <file name="/Volumes/Ithink/testProjects/pythonTestProjects/csrftoeknTest/app/test_loginMessage.py" timestamp="1496226689911">
         <mark key="'" line="6" column="32" />
@@ -16,6 +15,12 @@
         <mark key="]" line="6" column="33" />
         <mark key="." line="6" column="33" />
         <mark key="^" line="6" column="33" />
+      </file>
+      <file name="/Volumes/Ithink/testProjects/pythonTestProjects/csrftoeknTest/app/views.py" timestamp="1496227811824">
+        <mark key="[" line="5" column="52" />
+        <mark key="]" line="6" column="47" />
+        <mark key="." line="6" column="47" />
+        <mark key="^" line="6" column="47" />
       </file>
     </filemarks>
     <jumps>
@@ -31,35 +36,41 @@
       <jump line="6" column="32" filename="/Volumes/Ithink/testProjects/pythonTestProjects/csrftoeknTest/app/test_loginMessage.py" />
     </jumps>
     <registers>
-      <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBtZXNzYWdlPQo=</text>
+      <register name="1" type="4">
+        <text encoding="base64">CmNsYXNzIFVzZXJMb2c6CiAgICBjaGVja2VkID0gRmFsc2UKICAgIHVzZXIgPSBOb25lCiAgICAiIiI6dHlwZSA6VXNlciIiIgoKICAgIGRlZiBfX2luaXRfXyhzZWxmLCB1c2VyKToKICAgICAgICBzZWxmLnVzZXIgPSB1c2VyCiAgICAgICAgc3VwZXIoVXNlckxvZywgc2VsZikuX19pbml0X18oKQoKICAgIGRlZiBfX2NhbGxfXyhzZWxmLCAqYXJncywgKiprd2FyZ3MpOgogICAgICAgICIiIgoKICAgICAgICA6cGFyYW0gYXJnczoKICAgICAgICA6cGFyYW0ga3dhcmdzOgogICAgICAgIDpyZXR1cm46CiAgICAgICAgIiIiCgogICAgcGFzcw==</text>
       </register>
       <register name="&quot;" type="4">
-        <text>G</text>
+        <text encoding="base64">CmNsYXNzIFVzZXJMb2c6CiAgICBjaGVja2VkID0gRmFsc2UKICAgIHVzZXIgPSBOb25lCiAgICAiIiI6dHlwZSA6VXNlciIiIgoKICAgIGRlZiBfX2luaXRfXyhzZWxmLCB1c2VyKToKICAgICAgICBzZWxmLnVzZXIgPSB1c2VyCiAgICAgICAgc3VwZXIoVXNlckxvZywgc2VsZikuX19pbml0X18oKQoKICAgIGRlZiBfX2NhbGxfXyhzZWxmLCAqYXJncywgKiprd2FyZ3MpOgogICAgICAgICIiIgoKICAgICAgICA6cGFyYW0gYXJnczoKICAgICAgICA6cGFyYW0ga3dhcmdzOgogICAgICAgIDpyZXR1cm46CiAgICAgICAgIiIiCgogICAgcGFzcw==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIHBhc3MK</text>
+        <text encoding="base64">ZnJvbSBkamFuZ28uY29udHJpYi5zZXNzaW9ucy5iYWNrZW5kcy5kYiBpbXBvcnQgU2Vzc2lvblN0b3JlCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">aW1wb3J0IGpzCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBwYXNzCg==</text>
+        <text encoding="base64">ICAgICAgICBtZXNzYWdlPQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBpZiBzZWxmLmxvZ2luX3N0YXR1cz09c2VsZi4K</text>
+        <text encoding="base64">ICAgIHBhc3MK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAiIgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIGtrCg==</text>
+        <text encoding="base64">ICAgICAgICBwYXNzCg==</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgICBpZiBzZWxmLmxvZ2luX3N0YXR1cz09c2VsZi4K</text>
+      </register>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgICAgICAiIgo=</text>
       </register>
       <register name=":" type="4">
         <text>3</text>
       </register>
       <register name="-" type="4">
-        <text>G</text>
+        <text>o</text>
       </register>
     </registers>
     <search>
