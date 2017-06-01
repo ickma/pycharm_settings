@@ -63,11 +63,12 @@
       <file name="/Django Console" timestamp="1496232485367">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/Volumes/Ithink/testProjects/pythonTestProjects/csrftoeknTest/app/datas/middle_wares.py" timestamp="1496306838711">
-        <mark key="'" line="46" column="15" />
-        <mark key="[" line="44" column="23" />
-        <mark key="]" line="46" column="0" />
-        <mark key="." line="46" column="0" />
+      <file name="/Volumes/Ithink/testProjects/pythonTestProjects/csrftoeknTest/app/datas/middle_wares.py" timestamp="1496310310367">
+        <mark key="'" line="46" column="10" />
+        <mark key="[" line="19" column="40" />
+        <mark key="]" line="19" column="39" />
+        <mark key="." line="19" column="39" />
+        <mark key="^" line="19" column="39" />
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/consoles/.datagrid/cell" timestamp="1496232886225">
         <mark key="[" line="0" column="0" />
@@ -120,19 +121,21 @@
       <jump line="23" column="25" filename="/Volumes/Ithink/testProjects/pythonTestProjects/csrftoeknTest/app/views.py" />
       <jump line="25" column="38" filename="/Volumes/Ithink/testProjects/pythonTestProjects/csrftoeknTest/app/views.py" />
       <jump line="0" column="0" filename="/Volumes/Ithink/testProjects/pythonTestProjects/csrftoeknTest/app/views.py" />
-      <jump line="0" column="0" filename="/Volumes/Ithink/testProjects/pythonTestProjects/csrftoeknTest/app/datas/middle_wares.py" />
       <jump line="8" column="32" filename="/Volumes/Ithink/testProjects/pythonTestProjects/csrftoeknTest/app/datas/middle_wares.py" />
       <jump line="19" column="26" filename="/Volumes/Ithink/testProjects/pythonTestProjects/csrftoeknTest/app/datas/middle_wares.py" />
       <jump line="43" column="15" filename="/Volumes/Ithink/testProjects/pythonTestProjects/csrftoeknTest/app/datas/middle_wares.py" />
       <jump line="8" column="4" filename="/Volumes/Ithink/testProjects/pythonTestProjects/csrftoeknTest/app/datas/views.py" />
       <jump line="4" column="57" filename="/Volumes/Ithink/testProjects/pythonTestProjects/csrftoeknTest/app/datas/views.py" />
+      <jump line="23" column="22" filename="/Volumes/Ithink/testProjects/pythonTestProjects/csrftoeknTest/app/datas/middle_wares.py" />
+      <jump line="0" column="0" filename="/Volumes/Ithink/testProjects/pythonTestProjects/csrftoeknTest/app/datas/middle_wares.py" />
+      <jump line="46" column="10" filename="/Volumes/Ithink/testProjects/pythonTestProjects/csrftoeknTest/app/datas/middle_wares.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAiIiIiIiIK</text>
+      <register name="&quot;" type="4">
+        <text>HttpRequest</text>
       </register>
       <register name="-" type="4">
-        <text>serialized_data</text>
+        <text>HttpRequest</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxnZXRcPg==</text>
@@ -192,6 +195,8 @@
         <entry>1</entry>
         <entry>4</entry>
       </history-cmd>
+      <history-expr />
+      <history-input />
     </history>
     <shortcut-conflicts>
       <shortcut-conflict owner="ide">
@@ -208,6 +213,9 @@
       </shortcut-conflict>
       <shortcut-conflict owner="vim">
         <text>ctrl pressed F</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed N</text>
       </shortcut-conflict>
     </shortcut-conflicts>
     <editor>
