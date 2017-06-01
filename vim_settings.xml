@@ -3,6 +3,12 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
+      <file name="/Volumes/Ithink/testProjects/pythonTestProjects/csrftoeknTest/app/datas/views.py" timestamp="1496301291146">
+        <mark key="[" line="14" column="37" />
+        <mark key="]" line="14" column="34" />
+        <mark key="^" line="14" column="34" />
+        <mark key="." line="14" column="34" />
+      </file>
       <file name="/Dummy.txt" timestamp="1496233169165">
         <mark key="[" line="0" column="0" />
       </file>
@@ -13,12 +19,12 @@
         <mark key="." line="6" column="33" />
         <mark key="^" line="6" column="33" />
       </file>
-      <file name="/Volumes/Ithink/testProjects/pythonTestProjects/csrftoeknTest/app/views.py" timestamp="1496298381000">
-        <mark key="'" line="23" column="25" />
-        <mark key="[" line="23" column="7" />
-        <mark key="]" line="23" column="7" />
-        <mark key="." line="23" column="7" />
-        <mark key="^" line="23" column="7" />
+      <file name="/Volumes/Ithink/testProjects/pythonTestProjects/csrftoeknTest/app/views.py" timestamp="1496300678643">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
+        <mark key="^" line="22" column="7" />
       </file>
       <file name="/manage.py@csrftoeknTest" timestamp="1496232257110">
         <mark key="[" line="0" column="0" />
@@ -92,10 +98,12 @@
       <jump line="21" column="28" filename="/Volumes/Ithink/testProjects/pythonTestProjects/csrftoeknTest/app/views.py" />
       <jump line="26" column="28" filename="/Volumes/Ithink/testProjects/pythonTestProjects/csrftoeknTest/app/views.py" />
       <jump line="23" column="25" filename="/Volumes/Ithink/testProjects/pythonTestProjects/csrftoeknTest/app/views.py" />
+      <jump line="25" column="38" filename="/Volumes/Ithink/testProjects/pythonTestProjects/csrftoeknTest/app/views.py" />
+      <jump line="0" column="0" filename="/Volumes/Ithink/testProjects/pythonTestProjects/csrftoeknTest/app/views.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>'</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ZnJvbSBkamFuZ28uc2hvcnRjdXRzIGltcG9ydCByZW5kZXIK</text>
       </register>
       <register name="-" type="4">
         <text>'</text>
@@ -104,28 +112,28 @@
         <text encoding="base64">XDxnZXRcPg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIGNsYXNzIE1ldGE6ZGQK</text>
+        <text encoding="base64">ZnJvbSBkamFuZ28uc2hvcnRjdXRzIGltcG9ydCByZW5kZXIK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Y2xhc3MgRHJlc3NBZG1pbihhZG1pbi5Nb2RlbEFkbWluKToK</text>
+        <text encoding="base64">ICAgIGNsYXNzIE1ldGE6ZGQK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">IGNsYXNzIERyZXNzU2FsZQo=</text>
+        <text encoding="base64">Y2xhc3MgRHJlc3NBZG1pbihhZG1pbi5Nb2RlbEFkbWluKToK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICBjbGFzcyBEcmVzc1NhbGUK</text>
+        <text encoding="base64">IGNsYXNzIERyZXNzU2FsZQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIHBhc3MK</text>
+        <text encoding="base64">ICBjbGFzcyBEcmVzc1NhbGUK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIAo=</text>
-      </register>
-      <register name="7" type="2">
         <text encoding="base64">ICAgIHBhc3MK</text>
       </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgIAo=</text>
+      </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHBhc3MK</text>
       </register>
       <register name="9" type="2">
         <text encoding="base64">Cg==</text>
