@@ -70,6 +70,12 @@
         <mark key="." line="19" column="39" />
         <mark key="^" line="19" column="39" />
       </file>
+      <file name="$USER_HOME$/projects/pythonProjects/wukong/reserve/app/apps.py" timestamp="1496314417097">
+        <mark key="[" line="2" column="7" />
+        <mark key="]" line="2" column="7" />
+        <mark key="." line="2" column="7" />
+        <mark key="^" line="2" column="7" />
+      </file>
       <file name="$APPLICATION_CONFIG_DIR$/consoles/.datagrid/cell" timestamp="1496232886225">
         <mark key="[" line="0" column="0" />
       </file>
@@ -132,10 +138,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>HttpRequest</text>
+        <text>ango.apps import AppConfig</text>
       </register>
       <register name="-" type="4">
-        <text>HttpRequest</text>
+        <text>ango.apps import AppConfig</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxnZXRcPg==</text>
