@@ -13,7 +13,8 @@
         <mark key="." line="6" column="33" />
         <mark key="^" line="6" column="33" />
       </file>
-      <file name="/Volumes/Ithink/testProjects/pythonTestProjects/csrftoeknTest/app/views.py" timestamp="1496228553545">
+      <file name="/Volumes/Ithink/testProjects/pythonTestProjects/csrftoeknTest/app/views.py" timestamp="1496298381000">
+        <mark key="'" line="23" column="25" />
         <mark key="[" line="23" column="7" />
         <mark key="]" line="23" column="7" />
         <mark key="." line="23" column="7" />
@@ -88,13 +89,22 @@
       <jump line="28" column="22" filename="/Volumes/Ithink/testProjects/pythonTestProjects/csrftoeknTest/csrftoeknTest/settings.py" />
       <jump line="115" column="0" filename="/Volumes/Ithink/testProjects/pythonTestProjects/csrftoeknTest/csrftoeknTest/settings.py" />
       <jump line="16" column="0" filename="/Volumes/Ithink/testProjects/pythonTestProjects/csrftoeknTest/csrftoeknTest/settings.py" />
+      <jump line="21" column="28" filename="/Volumes/Ithink/testProjects/pythonTestProjects/csrftoeknTest/app/views.py" />
+      <jump line="26" column="28" filename="/Volumes/Ithink/testProjects/pythonTestProjects/csrftoeknTest/app/views.py" />
+      <jump line="23" column="25" filename="/Volumes/Ithink/testProjects/pythonTestProjects/csrftoeknTest/app/views.py" />
     </jumps>
     <registers>
-      <register name="1" type="2">
-        <text encoding="base64">ICAgIGNsYXNzIE1ldGE6ZGQK</text>
-      </register>
       <register name="&quot;" type="4">
         <text>'</text>
+      </register>
+      <register name="-" type="4">
+        <text>'</text>
+      </register>
+      <register name="/" type="4">
+        <text encoding="base64">XDxnZXRcPg==</text>
+      </register>
+      <register name="1" type="2">
+        <text encoding="base64">ICAgIGNsYXNzIE1ldGE6ZGQK</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">Y2xhc3MgRHJlc3NBZG1pbihhZG1pbi5Nb2RlbEFkbWluKToK</text>
@@ -123,15 +133,18 @@
       <register name=":" type="4">
         <text>30</text>
       </register>
-      <register name="-" type="4">
-        <text>'</text>
-      </register>
     </registers>
     <search>
-      <last-dir>0</last-dir>
+      <last-search encoding="base64">XDxnZXRcPg==</last-search>
+      <last-offset />
+      <last-pattern encoding="base64">XDxnZXRcPg==</last-pattern>
+      <last-dir>-1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
+      <history-search>
+        <entry encoding="base64">XDxnZXRcPg==</entry>
+      </history-search>
       <history-cmd>
         <entry>16</entry>
         <entry>2</entry>
