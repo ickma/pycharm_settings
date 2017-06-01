@@ -48,9 +48,9 @@
       <file name="/Volumes/Ithink/testProjects/pythonTestProjects/csrftoeknTest/app/datas/dress_sale.py" timestamp="1496228614708">
         <mark key="[" line="1" column="12" />
       </file>
-      <file name="/Volumes/Ithink/testProjects/pythonTestProjects/csrftoeknTest/csrftoeknTest/settings.py" timestamp="1496293723658">
+      <file name="/Volumes/Ithink/testProjects/pythonTestProjects/csrftoeknTest/csrftoeknTest/settings.py" timestamp="1496295938319">
         <mark key="a" line="82" column="0" />
-        <mark key="'" line="93" column="0" />
+        <mark key="'" line="16" column="0" />
         <mark key="[" line="104" column="25" />
         <mark key="]" line="104" column="25" />
         <mark key="." line="104" column="25" />
@@ -85,6 +85,9 @@
       <jump line="11" column="57" filename="/Volumes/Ithink/testProjects/pythonTestProjects/csrftoeknTest/app/models.py" />
       <jump line="31" column="26" filename="/Volumes/Ithink/testProjects/pythonTestProjects/csrftoeknTest/csrftoeknTest/settings.py" />
       <jump line="93" column="0" filename="/Volumes/Ithink/testProjects/pythonTestProjects/csrftoeknTest/csrftoeknTest/settings.py" />
+      <jump line="28" column="22" filename="/Volumes/Ithink/testProjects/pythonTestProjects/csrftoeknTest/csrftoeknTest/settings.py" />
+      <jump line="115" column="0" filename="/Volumes/Ithink/testProjects/pythonTestProjects/csrftoeknTest/csrftoeknTest/settings.py" />
+      <jump line="16" column="0" filename="/Volumes/Ithink/testProjects/pythonTestProjects/csrftoeknTest/csrftoeknTest/settings.py" />
     </jumps>
     <registers>
       <register name="1" type="2">
