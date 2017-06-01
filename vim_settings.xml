@@ -3,12 +3,12 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="/Volumes/Ithink/testProjects/pythonTestProjects/csrftoeknTest/app/datas/views.py" timestamp="1496304711899">
+      <file name="/Volumes/Ithink/testProjects/pythonTestProjects/csrftoeknTest/app/datas/views.py" timestamp="1496318875570">
         <mark key="'" line="4" column="57" />
-        <mark key="[" line="17" column="25" />
-        <mark key="]" line="17" column="3" />
-        <mark key="^" line="17" column="3" />
-        <mark key="." line="17" column="3" />
+        <mark key="[" line="26" column="34" />
+        <mark key="]" line="26" column="34" />
+        <mark key="^" line="26" column="34" />
+        <mark key="." line="26" column="34" />
       </file>
       <file name="/Dummy.txt" timestamp="1496233169165">
         <mark key="[" line="0" column="0" />
@@ -40,7 +40,7 @@
         <mark key="." line="0" column="0" />
         <mark key="^" line="22" column="7" />
       </file>
-      <file name="/manage.py@csrftoeknTest" timestamp="1496306482103">
+      <file name="/manage.py@csrftoeknTest" timestamp="1496319279162">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -104,7 +104,7 @@
         <mark key="." line="18" column="19" />
         <mark key="^" line="18" column="28" />
       </file>
-      <file name="/dummy.sql" timestamp="1496303343126">
+      <file name="/dummy.sql" timestamp="1496319260669">
         <mark key="[" line="0" column="0" />
       </file>
     </filemarks>
@@ -145,8 +145,8 @@
       <jump line="17" column="5" filename="/Volumes/Ithink/testProjects/pythonTestProjects/csrftoeknTest/.gitignore" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>ango.apps import AppConfig</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIHBhc3MK</text>
       </register>
       <register name="-" type="4">
         <text>ango.apps import AppConfig</text>
@@ -155,31 +155,31 @@
         <text encoding="base64">XDxnZXRcPg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAiIiIiIiIK</text>
-      </register>
-      <register name="2" type="2">
-        <text encoding="base64">ZnJvbSBkamFuZ28uY29yZSBpbXBvcnQgc2VyaWFsaXplcnMK</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgIHJldHVybiBKc29uUmVzcG9uc2UobW9kZWxfdG9fZGljdChEcmVzc1NhbGVDb3VudC5vYmplY3RzLmFsbCgpKSwgc2FmZT1GYWxzZSkK</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgIHJlc3BvbnNlPQo=</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgIHF1ZXJpZXMgPSBRdWVyeVBhcmFtKHJlcXVlc3QpLnF1ZXJpZXMoKQo=</text>
-      </register>
-      <register name="7" type="2">
         <text encoding="base64">ICAgIHBhc3MK</text>
       </register>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAgICAiIiIiIiIK</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">ZnJvbSBkamFuZ28uY29yZSBpbXBvcnQgc2VyaWFsaXplcnMK</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgIHJldHVybiBKc29uUmVzcG9uc2UobW9kZWxfdG9fZGljdChEcmVzc1NhbGVDb3VudC5vYmplY3RzLmFsbCgpKSwgc2FmZT1GYWxzZSkK</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICAK</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgIHJlc3BvbnNlPQo=</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgIHF1ZXJpZXMgPSBRdWVyeVBhcmFtKHJlcXVlc3QpLnF1ZXJpZXMoKQo=</text>
+      </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIHF1ZXJpZXM9cmVxdWVzdC5ib2R5Cg==</text>
+        <text encoding="base64">ICAgIHBhc3MK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICA6cnR5cGU6ZGljdAo=</text>
+        <text encoding="base64">ICAgIHF1ZXJpZXM9cmVxdWVzdC5ib2R5Cg==</text>
       </register>
       <register name=":" type="4">
         <text>4</text>
