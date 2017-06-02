@@ -33,6 +33,9 @@
         <mark key="." line="6" column="33" />
         <mark key="^" line="6" column="33" />
       </file>
+      <file name="$USER_HOME$/projects/pythonProjects/wukong/reserve/servers/test_exceptionTypes.py" timestamp="1496382578560">
+        <mark key="'" line="12" column="37" />
+      </file>
       <file name="/Volumes/Ithink/testProjects/pythonTestProjects/csrftoeknTest/app/views.py" timestamp="1496300678643">
         <mark key="'" line="0" column="0" />
         <mark key="[" line="0" column="0" />
@@ -150,6 +153,7 @@
       <jump line="43" column="8" filename="/Volumes/Ithink/testProjects/pythonTestProjects/csrftoeknTest/app/models.py" />
       <jump line="40" column="0" filename="/Volumes/Ithink/testProjects/pythonTestProjects/csrftoeknTest/app/datas/middle_wares.py" />
       <jump line="14" column="10" filename="/Volumes/Ithink/testProjects/pythonTestProjects/csrftoeknTest/app/datas/middle_wares.py" />
+      <jump line="12" column="37" filename="$USER_HOME$/projects/pythonProjects/wukong/reserve/servers/test_exceptionTypes.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
